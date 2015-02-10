@@ -1,0 +1,3 @@
+[submodule "DockerImages"]
+	path = DockerImages
+	url = https://github.com/igitras-docker/DockerImages.git
